@@ -1,3 +1,8 @@
+## Design of a property management system using appropriate design patterns and best practices.
+
+- Fully functional Spring Boot application with the implemented features.
+- Handle Exception Properly
+
 
 
 ### **1. Setup the Project:**
